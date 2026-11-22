@@ -1,6 +1,6 @@
 import { Link, NavLink } from 'react-router-dom';
 
-export default function Header({ cartCount = 0 }) {
+export default function Header({ cartCount }) {
   return (
     <header className="site-header">
       <div className="container header-inner">
