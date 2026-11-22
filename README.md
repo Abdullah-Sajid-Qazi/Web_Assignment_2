@@ -9,8 +9,8 @@ A user can look at 12 hosting plans, search, filter and sort them, and open a pl
 Then the user can put plans in a cart, fill in a checkout form and see a test order confirmation.
 The site uses React and Vite.
 
-- GitHub: [add link]
-- Live site: [add link]
+- GitHub: https://github.com/Abdullah-Sajid-Qazi/Web_Assignment_2
+- Live site: https://web-assignment-2-beta.vercel.app/
 
 ## Commands
 | Task | Command |
